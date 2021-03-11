@@ -1,4 +1,4 @@
-# create 1 vm Vagrantfile, 2 core 2GB of ram"
+# create 1 vm Vagrantfile, 2 core 2GB of ram
 ## Intro
 This manual is dedicated to create create 1 vm Vagrantfile, 2 core 2GB of ram. 
 Tested on Mac OS X.
